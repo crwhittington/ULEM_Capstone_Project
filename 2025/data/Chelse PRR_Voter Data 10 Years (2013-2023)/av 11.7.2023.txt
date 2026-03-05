@@ -1,0 +1,5 @@
+ct_twn_nm	ct_twn_ind	last_nm	frst_nm	mdl_nm	title	voter_id	ward_no	prnct_no	st_nm	res_st_no_sfx	res_st_no	res_apt_no	ml_addr_ln_1	ml_addr_ln_2	ml_addr_ln_3	ml_addr_ln_4	ml_addr_ln_5	frst_b_disp	compute_0020	compute_0021	dt_av_appl_recd	del_flag	del_flag	poll_id_reqd	del_mode	av_type	frst_b_reason	fed_write_in_ballot	voter_name
+CHELSEA	C	KERBLE	LOLA	J		12KLA0844000	1  	1  	COTTAGE ST		165	602	P.O.BOX 505069	CHELSEA, MA 02150				R	10/17/2023	11/08/2023	5/9/2023 00:00:00			N		T	RL		KERBLE, LOLA J 
+CHELSEA	C	JACKSON	TALIA	MIRANDA		08JTA0798001	2  	2  	FOURTH ST		82	3	20 BRADSON ST.	BOSTON, MA 02118				N	10/30/2023		10/30/2023 00:00:00			N		T			JACKSON, TALIA MIRANDA 
+CHELSEA	C	ARGUETA	OSCAR	RAUL		02AOR0483000	2  	4  	BROADWAY		188		200 NASHUA ST	BOSTON, MA 02114				N	11/02/2023		11/2/2023 00:00:00			N		T			ARGUETA, OSCAR RAUL 
+CHELSEA	C	TOMASHPOL	LISA	A		09TLA1964000	3  	4  	BLOOMINGDALE ST		14	201	14 BLOOMINGDALE ST., #201	CHELSEA, MA 02150				A	10/17/2023	10/26/2023	9/27/2023 00:00:00			N		T			TOMASHPOL, LISA A 

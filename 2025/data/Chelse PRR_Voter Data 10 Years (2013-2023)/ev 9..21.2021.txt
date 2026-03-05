@@ -1,0 +1,2 @@
+ct_twn_nm	ct_twn_ind	last_nm	frst_nm	mdl_nm	title	voter_id	ward_no	prnct_no	st_nm	res_st_no_sfx	res_st_no	res_apt_no	ml_addr_ln_1	ml_addr_ln_2	ml_addr_ln_3	ml_addr_ln_4	ml_addr_ln_5	frst_b_disp	compute_0020	compute_0021	dt_ev_appl_recd	del_flag	del_flag	poll_id_reqd	del_mode	ev_type	frst_b_reason	voter_name	elec_text
+CHELSEA	C	PADULSKY	MORTON			07PMN1430000	3  	1  	JOHN ST		33		33 JOHN ST	CHELSEA, MA 02150-2124							10/19/2021			N				PADULSKY, MORTON  	LC 09/21/2021
